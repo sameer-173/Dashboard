@@ -72,4 +72,4 @@ npm run test
 
 - This implementation intentionally follows the task instruction for a fixed, non-responsive layout.
 - LinkedIn Profile: [www.linkedin.com/in/subhakanta-sahu-sam](https://www.linkedin.com/in/subhakanta-sahu-sam)
-- Hosted URL: 
+- Hosted URL: https://jazzy-cobbler-784f5a.netlify.app/ 
