@@ -67,11 +67,9 @@ npm run test
   - Sidebar persistent selected state with functional Home / Analyse / Control views.
   - Animated view transitions when switching sidebar modes.
   - Interactive profile avatar menu with status toggle.
-- Hosting:
-  - Not hosted from this local environment yet. Deploy to Vercel/Netlify and add the live link.
 
 ## Submission Note
 
 - This implementation intentionally follows the task instruction for a fixed, non-responsive layout.
 - LinkedIn Profile: [www.linkedin.com/in/subhakanta-sahu-sam](https://www.linkedin.com/in/subhakanta-sahu-sam)
-- Hosted URL: Add after deployment (Vercel/Netlify).
+- Hosted URL: 
